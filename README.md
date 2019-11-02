@@ -1,5 +1,4 @@
 # AboutMe
-# AboutME
 My name is Matthew Lewis
 # My college experience is limitied as this is only my third semester going so far.
 My computer experience is mainly windows with some in linux. I have done scripting in javascript some C# and now im learning *python*.
